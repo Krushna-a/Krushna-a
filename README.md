@@ -8,29 +8,15 @@ I'm currently pursuing my B.Tech at VIT Pune, located in the vibrant city of Pun
 
 ## Skills & Technologies
 
-cpp,html,css,tailwind,js,express,nodejs,mongodb,react,ai,pytorch,github
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwind,react,nodejs,express,mongodb,mysql,git,github,ai
+)](https://skillicons.dev)
 
-## Top Projects
+## 🚀 Top Projects
 
- Top Projects
-🔗 HackVent-Frontend
-A user-friendly frontHere are some of my top projects:
-
-- [HackVent-Frontend](https://github.com/Krushna-a/HackVent-Frontend) - A user-friendly frontend for HackVent built with JavaScript. **Stars:** 0, **Language:** JavaScript, **Forks:** 0, **Issues:** 0  
-
-- [HackVent-Backend](https://github.com/Krushna-a/HackVent-Backend) - The backend service for HackVent, ensuring robust data management. **Stars:** 0, **Language:** JavaScript, **Forks:** 0, **Issues:** 0  
-
-
-- [Heart-disease-classification-ML](https://github.com/Krushna-a/Heart-disease-classification-ML) - Heart Disease Prediction using Machine Learning. **Stars:** 0, **Language:** Jupyter Notebook, **Forks:** 0, **Issues:** 0end for HackVent, built with modern JavaScript to help students discover and track hackathons.
-Tech: JavaScript • Stars: 0 • Forks: 0 • Issues: 0
-
-🔗 HackVent-Backend
-Robust backend service for HackVent, handling data, events, and user interactions efficiently.
-Tech: JavaScript • Stars: 0 • Forks: 0 • Issues: 0
-
-🔗 Heart Disease Classification (ML)
-A machine learning model to predict the likelihood of heart disease using key clinical features.
-Tech: Jupyter Notebook • Stars: 0 • Forks: 0 • Issues: 0
+[![HackVent-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Krushna-a&repo=HackVent-Frontend&theme=dark)](https://github.com/Krushna-a/HackVent-Frontend)
+[![HackVent-Backend](https://github-readme-stats.vercel.app/api/pin/?username=Krushna-a&repo=HackVent-Backend&theme=dark)](https://github.com/Krushna-a/HackVent-Backend)
+[![Heart-disease-classification-ML](https://github-readme-stats.vercel.app/api/pin/?username=Krushna-a&repo=Heart-disease-classification-ML&theme=dark)](https://github.com/Krushna-a/Heart-disease-classification-ML)
+[![ASEP-2](https://github-readme-stats.vercel.app/api/pin/?username=Krushna-a&repo=ASEP-2&theme=dark)](https://github.com/Krushna-a/ASEP-2)
 
 
 ## GitHub Stats
