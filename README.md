@@ -53,4 +53,6 @@ Here are some of my latest GitHub activities:
 
 ## Connect with Me
 
-{"email":"krushnaboinwad@gmail.com","linkedin":{"label":"LinkedIn","url":"https://www.linkedin.com/in/krushna-boinwad-8a5a72275/","buttonText":"Connect"},"github":{"label":"GitHub","url":"https://github.com/Krushna-a","buttonText":"Follow"}}
+krushnaboinwad70@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krushna-boinwad-8a5a72275/)
